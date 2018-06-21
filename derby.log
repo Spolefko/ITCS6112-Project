@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Thu Jun 21 19:01:58 EDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0164-2495-3fb9-0000073728a0 
+on database directory C:\Users\Shane\Documents\Netbeans\Project3\healthDb with class loader sun.misc.Launcher$AppClassLoader@2503dbd3 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_91/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b14
+user.dir=C:\Users\Shane\Documents\Netbeans\Project3
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jun 21 19:01:58 EDT 2018: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Jun 21 19:01:58 EDT 2018:
+Shutting down instance a816c00e-0164-2495-3fb9-0000073728a0 on database directory C:\Users\Shane\Documents\Netbeans\Project3\healthDb with class loader sun.misc.Launcher$AppClassLoader@2503dbd3 
+----------------------------------------------------------------
